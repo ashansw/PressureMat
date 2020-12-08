@@ -1,0 +1,17 @@
+#-----------------------------------------------------------
+# Vivado v2019.1 (64-bit)
+# SW Build 2552052 on Fri May 24 14:49:42 MDT 2019
+# IP Build 2548770 on Fri May 24 18:01:18 MDT 2019
+# Start of session at: Wed Sep 18 13:27:00 2019
+# Process ID: 1888
+# Current directory: E:/Ashan/8x8/done_edited
+# Command line: vivado.exe -gui_launcher_event rodinguilauncherevent6328 E:\Ashan\8x8\done_edited\done_edited.xpr
+# Log file: E:/Ashan/8x8/done_edited/vivado.log
+# Journal file: E:/Ashan/8x8/done_edited\vivado.jou
+#-----------------------------------------------------------
+start_gui
+open_project E:/Ashan/8x8/done_edited/done_edited.xpr
+open_run impl_1
+update_compile_order -fileset sources_1
+launch_sdk -workspace E:/Ashan/8x8/done_edited/done_edited.sdk -hwspec E:/Ashan/8x8/done_edited/done_edited.sdk/design_1_wrapper.hdf
+launch_sdk -workspace E:/Ashan/8x8/done_edited/done_edited.sdk -hwspec E:/Ashan/8x8/done_edited/done_edited.sdk/design_1_wrapper.hdf

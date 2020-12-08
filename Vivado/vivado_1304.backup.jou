@@ -1,0 +1,14 @@
+#-----------------------------------------------------------
+# Vivado v2016.4 (64-bit)
+# SW Build 1756540 on Mon Jan 23 19:11:23 MST 2017
+# IP Build 1755317 on Mon Jan 23 20:30:07 MST 2017
+# Start of session at: Thu Jan 17 11:06:49 2019
+# Process ID: 1304
+# Current directory: E:/diary/20180916/done_edited
+# Command line: vivado.exe -gui_launcher_event rodinguilauncherevent4232 E:\diary\20180916\done_edited\done_edited.xpr
+# Log file: E:/diary/20180916/done_edited/vivado.log
+# Journal file: E:/diary/20180916/done_edited\vivado.jou
+#-----------------------------------------------------------
+start_gui
+open_project E:/diary/20180916/done_edited/done_edited.xpr
+launch_sdk -workspace E:/diary/20180916/done_edited/done_edited.sdk -hwspec E:/diary/20180916/done_edited/done_edited.sdk/design_1_wrapper.hdf

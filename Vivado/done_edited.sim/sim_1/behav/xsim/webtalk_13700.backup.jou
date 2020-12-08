@@ -1,0 +1,12 @@
+#-----------------------------------------------------------
+# Webtalk v2019.1 (64-bit)
+# SW Build 2552052 on Fri May 24 14:49:42 MDT 2019
+# IP Build 2548770 on Fri May 24 18:01:18 MDT 2019
+# Start of session at: Thu Sep 10 12:59:05 2020
+# Process ID: 13700
+# Current directory: E:/Ashan/8x8/done_edited/done_edited.sim/sim_1/behav/xsim
+# Command line: wbtcv.exe -mode batch -source E:/Ashan/8x8/done_edited/done_edited.sim/sim_1/behav/xsim/xsim.dir/design_1_wrapper_behav/webtalk/xsim_webtalk.tcl -notrace
+# Log file: E:/Ashan/8x8/done_edited/done_edited.sim/sim_1/behav/xsim/webtalk.log
+# Journal file: E:/Ashan/8x8/done_edited/done_edited.sim/sim_1/behav/xsim\webtalk.jou
+#-----------------------------------------------------------
+source E:/Ashan/8x8/done_edited/done_edited.sim/sim_1/behav/xsim/xsim.dir/design_1_wrapper_behav/webtalk/xsim_webtalk.tcl -notrace
